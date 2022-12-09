@@ -22,4 +22,5 @@ class DashboardController extends AbstractController
             'path' => 'src/Controller/DashboardController.php',
         ]);
     }
+
 }
